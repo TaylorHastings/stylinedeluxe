@@ -1,2 +1,14 @@
-
+ul#nav li {
+	border-bottom: 1px solid grey;
+	list-style: none;
+	display: inline;
+	margin-right: 8px;
+	text-align: center;
+	margin: 0px 5px;
+}
+ul#nav li a {
+	text-decoration: none;
+	color: grey;
+	margin: 0 auto;
+}
 
